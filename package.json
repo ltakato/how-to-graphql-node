@@ -1,0 +1,11 @@
+{
+  "name": "how-to-graphql-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ltakato/how-to-graphql-node.git",
+  "author": "takato <leonardo.takato@soaexpert.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
