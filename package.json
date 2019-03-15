@@ -5,6 +5,9 @@
   "repository": "https://github.com/ltakato/how-to-graphql-node.git",
   "author": "takato <leonardo.takato@soaexpert.com.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
   "dependencies": {
     "graphql-yoga": "^1.17.4"
   }
